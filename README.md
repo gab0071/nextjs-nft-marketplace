@@ -24,7 +24,8 @@ b. Home Page:
     b.b.2. If not, you can buy
 
 c. Sell Page:
-  c.1. You can list your NFT on the marketplace
-
-
-## 3. Fontend w/ The Graph
+  c.1. You can list your NFT on the marketplace.
+  
+  # Thank u!
+  
+ 
